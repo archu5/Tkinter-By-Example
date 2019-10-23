@@ -15,7 +15,7 @@ Full source code of each application is available in the Code folder of this rep
 
 ## Legal Stuff
 
-### The Book
+### The python Book
 
 This book is licensed under Creative Commons Attribution-NoDerivs (CC BY-ND)
 
@@ -31,6 +31,6 @@ If you wish to compile the Latex source into another format you may do so. If yo
 
 This source code is licensed under the MIT Licence
 
-https://opensource.org/licenses/MIT
+https://opensource.org/licenses/MIT/
 
 You are free to download, modify, use, and re-distribute this code as you see fit.
